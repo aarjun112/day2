@@ -1,0 +1,1 @@
+print("japanese language classes starting soon! Join us to learn Japanese in a fun and interactive way. Classes are suitable for all levels, from beginners to advanced learners. Sign up now to secure your spot!   ")
